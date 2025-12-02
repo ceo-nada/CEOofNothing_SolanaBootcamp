@@ -27,3 +27,35 @@ This Readme serves as a record of her progress through Solana's Blockchain Devel
 7. 💃 Did a happy dance.
 
 ---------------------------------------------------
+
+## 2 December 2025 Achievements
+
+**Summary**: Began Project 2, Creating a Voting Application!
+
+1. Set up local environment by installing or creating the following: 
+    - Rust
+    - Solana CLI
+    - Anchor (used Anchor Version Manager (AVM))
+    - NPM
+    - A venv (not sure if helpful for Solana): /Users/--/venvs
+    - A Custom Terminal profile: Solana
+        * Activates the venv
+        * Navigates to my SolanaBootcamp folder (Github repo)
+
+    - Project folder: /Users/--/Documents/GitHub/CEOofNothing_SolanaBootcamp/voting
+2. Set up the project: 
+   - /Users/--/Documents/GitHub/CEOofNothing_SolanaBootcamp/voting/voting-dapp
+   - Launched app:
+   ```bash
+    cd voting/voting-dapp
+    npm run dev
+    ```
+   - open http://localhost:3000 in browser
+3. That's enough for today!
+   - Pickup later here: [Solana Developer Bootcamp 2024 - Learn Blockchain and Full Stack Web3 Development - Projects 1-9 | TS 46:17](https://youtu.be/amAq-WHAFs8?si=4e8Z4x5blb0FHcAJ&t=2777)
+
+
+References: 
+[Anchor Docs | Installation](https://www.anchor-lang.com/docs/installation)
+[Solana Docs | Install Dependencies](https://solana.com/docs/intro/installation/dependencies)
+[Solana Developers | Developer Bootcamp 2024 | Project 2: Voting Application](https://github.com/solana-developers/developer-bootcamp-2024/tree/main/project-2-voting)
